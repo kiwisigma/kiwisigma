@@ -30,16 +30,4 @@ I'm a self-taught developer grinding through cybersecurity, Python, and homelab 
 | [Powershell-Hash-Script](https://github.com/kiwisigma/Powershell-Hash-Script) | File integrity checker via hash comparison | PowerShell |
 | [osticket-prereqs](https://github.com/kiwisigma/osticket-prereqs) | osTicket helpdesk setup and prereqs | IT/Sysadmin |
 
----
-
-## 📊 GitHub Stats
-
-![Drew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiwisigma&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiwisigma&layout=compact&theme=dark&hide_border=true)
-
----
-
-## 📫 Contact
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drewbrost7@gmail.com)
 
